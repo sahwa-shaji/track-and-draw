@@ -1,34 +1,33 @@
 <img width="3188" height="1202" alt="frame (3)" src="https://github.com/user-attachments/assets/517ad8e9-ad22-457d-9538-a9e62d137cd7" />
 
 
-# [Project Name] 🎯
+# Track N Draw 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name:Tecs
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Member 1: Mufeedha - NSS College of engineering,Palakkad
+- Member 2: Sahwa Shaji - NSS College of engineering,Palakkad
 
 ### Project Description
-[2-3 lines about what your project does]
+A live webcam-based virtual drawing board with some features controlled by finger gestures.
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+Every year,countless brilliant ideas vanish into thin air because people can't draw them in mid air fast enough before forgetting.
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+a live webcam finger-drawing board that lets you sketch your crazy ideas in thin air,perfect for pretending you are a finger-wielding wizard of imagination.Snap out of your daydreams in style!]
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
+- python
+- mediapipe,pygame
+- openCv,mediapipe,pygame,numpy,collections.deque,os,sys,time
+- python,webcam,vedio player,terminal
 
 For Hardware:
 - [List main components]
@@ -38,7 +37,7 @@ For Hardware:
 ### Implementation
 For Software:
 # Installation
-[commands]
+
 
 # Run
 [commands]
